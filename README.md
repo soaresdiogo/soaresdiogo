@@ -5,6 +5,9 @@ Hi there! I'm Diogo Soares 👋
 <a href="https://www.linkedin.com/in/diogoschmidtsoares">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
+<a href="https://diogosoares.dev">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fyle.svg"  />
+</a>  
 <a href="mailto:diogoschsoares@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
@@ -12,8 +15,8 @@ Hi there! I'm Diogo Soares 👋
 <br/>
 About Me 🚀
 💻 I'm a Senior Frontend/Fullstack Engineer with over 15 years of experience in software development, currently based in Portugal. </br></br>
-🏦 Currently working at Millennium BCP, leading frontend development teams and architecting large-scale banking applications. </br></br>
-🌟 Specialized in creating high-performance web applications using Java, .NET Core, React, TypeScript, NodeJS and modern frontend technologies. </br></br>
+🏦 Currently working at Accenture, as a senior frontend engineer building a large-scale recruitment platform. </br></br>
+🌟 Specialized in creating high-performance web applications using Java, .NET Core, React, NextJS, TypeScript, NodeJS and modern frontend technologies. </br></br>
 👨‍🏫 Passionate about mentoring and leading development teams to deliver high-quality solutions. </br></br>
 🎯 Expert in microservices architecture, micro-frontends, and cloud technologies. </br></br>
 <b><i>I believe in creating software that not only meets business needs but also enhances the lives of its users through exceptional user experiences.</i></b>
