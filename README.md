@@ -2,14 +2,14 @@ Hi there! I'm Diogo Soares 👋
 <br/>
 <br/>
 <div align="left">
-<a href="https://www.linkedin.com/in/diogoschmidtsoares">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+<a href="https://www.linkedin.com/in/diogoschmidtsoares" target="_blank">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg?color=0A66C2" />
 </a>
-<a href="https://diogosoares.dev">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fyle.svg"  />
-</a>  
-<a href="mailto:diogoschsoares@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<a href="https://diogosoares.dev" target="_blank">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/readthedocs.svg?color=FF9800" />
+</a>
+<a href="mailto:diogoschsoares@gmail.com" target="_blank">
+  <img align="left" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg?color=EA4335" />
 </a>
 <br/>
 <br/>
